@@ -1,0 +1,23 @@
+_repo: Robert-Browning-How-to-Know-Him_9067
+creator:
+  author:
+    agent_name: Phelps, William Lyon
+    birthdate: 1865
+    deathdate: 1943
+    gutenberg_agent_id: '1907'
+    url: http://www.gutenberg.org/2009/agents/1907
+    wikipedia: http://en.wikipedia.org/wiki/William_Lyon_Phelps
+description: Cover -- Contents.
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9067'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Browning, Robert, 1812-1889'
+title: 'Robert Browning: How to Know Him'
+url: http://www.gutenberg.org/ebooks/9067
